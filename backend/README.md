@@ -1,13 +1,3 @@
-- Tesseract-OCR 설치 (`Image 기반 Text 추출`)
-
-```bash
--> https://github.com/UB-Mannheim/tesseract/wiki
--> `tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe` (64 bit) resp. # 설치
-
-# 또는
--> https://github.com/tesseract-ocr/tesseract/wiki # 리눅스 기반
-```
-
 - ./djangoAPI/requirements.txt (python 모듈 설치)
 
 ```python
